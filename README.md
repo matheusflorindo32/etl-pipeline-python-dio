@@ -10,6 +10,26 @@ Simular o uso de IA Generativa para criação de mensagens personalizadas para c
 
 ---
 
+# Pipeline de ETL com IA Generativa
+
+Este projeto demonstra a construção de um pipeline de ETL (Extração, Transformação e Carregamento) utilizando Python e integração com IA Generativa.
+
+## Tecnologias utilizadas
+- Python
+- Pandas
+- OpenAI API
+- CSV / JSON
+
+## Execução
+
+pip install -r requirements.txt
+python main.py
+
+Pipeline executado com sucesso.
+
+---
+
+
 ## 🔄 Estrutura do Pipeline
 
 ### 🔹 1. Extract (Extração)
