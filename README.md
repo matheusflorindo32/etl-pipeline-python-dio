@@ -1,28 +1,32 @@
-# 🚀 ETL Pipeline com Python e IA Generativa
+# Pipeline de ETL com IA Generativa
 
-Projeto desenvolvido no Lab da DIO (Santander Dev Week 2023) com foco na construção de um pipeline ETL (Extract, Transform, Load) utilizando Python.
+Este projeto demonstra a construção de um pipeline de ETL 
+(Extração, Transformação e Carregamento) utilizando Python 
+e integração com IA Generativa.
 
 ---
 
 ## 📌 Objetivo
-
-Simular o uso de IA Generativa para criação de mensagens personalizadas para clientes bancários, demonstrando o fluxo completo de dados.
+Simular um fluxo de dados onde:
+- Extraímos dados de um CSV
+- Transformamos com apoio de IA
+- Carregamos em um novo arquivo JSON/CSV
 
 ---
 
-# Pipeline de ETL com IA Generativa
-
-Este projeto demonstra a construção de um pipeline de ETL (Extração, Transformação e Carregamento) utilizando Python e integração com IA Generativa.
-
-## Tecnologias utilizadas
+## 🛠 Tecnologias Utilizadas
 - Python
 - Pandas
-- OpenAI API
+- OpenAI
 - CSV / JSON
 
-## Execução
+---
 
+## ▶ Como Executar
+
+```bash
 pip install -r requirements.txt
+python main.py.txt
 python main.py
 
 Pipeline executado com sucesso.
