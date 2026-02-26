@@ -42,5 +42,27 @@ Simular o uso de IA Generativa para criação de mensagens personalizadas para c
 ## ▶️ Como Executar
 
 ```bash
+
+📁 Saídas Geradas
+
+output.json
+
+output.csv
+
+🎯 Conceitos Aplicados
+
+Engenharia de Dados
+
+Pipeline ETL
+
+Automação
+
+IA Generativa
+
+Manipulação de Dados com Pandas
+
+Desenvolvido por Matheus Florindo de Deus
+
+
 pip install -r requirements.txt
 python main.py
